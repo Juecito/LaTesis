@@ -1,0 +1,13 @@
+Siciliano, Bruno & Eds.) Khatib, Oussama. (2008). Springer Handbook of Robotics. 10.1007/978-3-540-30301-5.
+
+@unknown{unknown,
+author = {Hägele, Martin and Nilsson, Klas and Pires, J. Norberto},
+year = {2007},
+month = {12},
+pages = {963-986},
+title = {Industrial Robotics},
+journal = {Springer Handbook of Robotics},
+doi = {10.1007/978-3-540-30301-5_43}
+}
+
+http://infolab.stanford.edu/pub/voy/museum/pictures/display/1-Robot.htm ---- 13_Nov_2018
