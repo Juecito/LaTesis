@@ -5,8 +5,8 @@
 
 \chapter{\textcolor{Azul}{Control}}
 En este capítulo, se presenta la introducción al desarrollo de la tesis, ya sea el modelo matemático o las bases del proyecto, etc.
-Ejemplo de cita  [\citet{latex}]
-Ejemplo de cita [\citeauthor{RR73}]
+%Ejemplo de cita  [\citet{latex}]
+%Ejemplo de cita [\citeauthor{RR73}]
  % The \cite command functions as follows:
  %   \citet{key} ==>>                Jones et al. (1990)
  %   \citet*{key} ==>>               Jones, Baker, and Smith (1990)
@@ -22,8 +22,30 @@ Ejemplo de cita [\citeauthor{RR73}]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                          Descripción de la planta                     %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Fundamentos de control}
-Ejemplo de cita \citep{texbook}
+\section{Conceptos de control}
+
+A pesar de la existencia de robots comerciales de tipo industrial, diseñar controladores para robots sigue siendo un área compleja y constantemente estudiada por parte de los constructores de robots, así como por centros de investigación en control y robótica alrededor del mundo. Podría argumentarse que los robots industriales actuales son capaces de realizar correctamente una gran variedad de tareas, por lo que pareciera innecesario el desarrollo de investigaciones sobre el tema de control de robots. Sin embargo, este último tema, además de interesante, tiene muchos retos que ofrecer en el marco teórico, y más importante aún, su estudio es indispensable en aplicaciones específicas que no pueden ser llevadas a cabo mediante los robots comerciales actuales.\\
+
+La metodología de diseño de los sistemas de control puede resumirse en los siguientes pasos:
+
+\begin{itemize}
+	\item Familiarización con el sistema físico a controlarse.
+	\item Modelado.
+	\item Especificaciones de control.
+\end{itemize}
+
+\subsection{Familiarización con el sistema fisico a controlarse}
+
+En esta primera etapa deben identificarse las \textit{salidas del sistema}, que son todas aquellas variables físicas que se desea gobernar, tales como velocidad, desplazamiento, temperatura, etc. Además deben identificarse claramente aquellas variables físicas del sistema que se encuentran disponibles y que influyen en el comportamiento del mismo, y en particular afectan a las salidas del sistema. Estas variables llamadas \textit{entradas del sistema} pueden ser, por ejemplo, corriente eléctrica, par o fuerza, tensión, etc.\\
+
+En el caso de los robots manipuladores, la variable de salida (denotada momentaneamente por \textbf{y}) cuya conducta se desea modificar, ofrece un amplio espectro de elecciones tal como podemos ver a continuación.\\
+
+\subsection{Modelado dinámico}
+
+
+\subsection{Especificaciones de control}
+
+%Ejemplo de cita \citep{texbook}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
