@@ -38,7 +38,16 @@ La metodología de diseño de los sistemas de control puede resumirse en los sig
 
 En esta primera etapa deben identificarse las \textit{salidas del sistema}, que son todas aquellas variables físicas que se desea gobernar, tales como velocidad, desplazamiento, temperatura, etc. Además deben identificarse claramente aquellas variables físicas del sistema que se encuentran disponibles y que influyen en el comportamiento del mismo, y en particular afectan a las salidas del sistema. Estas variables llamadas \textit{entradas del sistema} pueden ser, por ejemplo, corriente eléctrica, par o fuerza, tensión, etc.\\
 
-En el caso de los robots manipuladores, la variable de salida (denotada momentaneamente por \textbf{y}) cuya conducta se desea modificar, ofrece un amplio espectro de elecciones tal como podemos ver a continuación.\\
+En el caso de los robots manipuladores, la variable de salida (denotada momentaneamente por $\textbf{y}$) cuya conducta se desea modificar, ofrece un amplio espectro de elecciones tal como podemos ver a continuación.\\
+
+En el caso de robots que se desplazan libremente por un espacio de trabajo, tales como los destinados a tareas de pintado, traslado de objetos de un punto a otro, corte por rayo láser, etc, la salida del sistema $\textbf{y}$ puede corresponder simplemente a las velocidades $\textbf{q}$ y velocidades $\dot{\textbf{q}}$ articulares, o tambien la posición y orientación del efector final o herramienta.\\
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[scale=0.4]{Capitulo3/figs/robotLaser.png} 
+	\caption{Robot en movimiento libre}
+	\label{laser}
+\end{figure}
 
 \subsection{Modelado dinámico}
 
