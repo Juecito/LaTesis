@@ -2,16 +2,18 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Manipulador rob\IeC {\'o}tico y su analog\IeC {\'\i }a con un brazo del cuerpo humano\relax }}{2}{figure.caption.7}
 \contentsline {figure}{\numberline {1.2}{\ignorespaces (a) La patente de G. Devol marc\IeC {\'o} el comienzo del trabajo conjunto con J. Engelberer para crear la primera compa\IeC {\~n}\IeC {\'\i }a de rob\IeC {\'o}tica del mundo (b) El primer robot instalado en una planta de \textit {General Motors}.\relax }}{4}{figure.caption.8}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces \textit {The Stanford Arm}. La configuraci\IeC {\'o}n no es antropom\IeC {\'o}rfica, cuenta con 6 pares cinem\IeC {\'a}ticos (5 rotacionales, 1 prism\IeC {\'a}tico).\relax }}{4}{figure.caption.9}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces (a) El robot T3 inici\IeC {\'o} con actuadores hidr\IeC {\'a}ulicos, para luego ser reemplazados por motores el\IeC {\'e}ctricos (b) El robot PUMA se convierte en una referencia para la investigaci\IeC {\'o}n en rob\IeC {\'o}tica\relax }}{5}{figure.caption.10}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Sistema de control rob\IeC {\'o}tico DX100.\relax }}{6}{figure.caption.11}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces \textit {The Stanford Arm}. La configuraci\IeC {\'o}n no es antropom\IeC {\'o}rfica, cuenta con 6 pares cinem\IeC {\'a}ticos (5 rotacionales, 1 prism\IeC {\'a}tico).\relax }}{5}{figure.caption.9}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces (a) El robot T3 inici\IeC {\'o} con actuadores hidr\IeC {\'a}ulicos, para luego ser reemplazados por motores el\IeC {\'e}ctricos (b) El robot PUMA se convierte en una referencia para la investigaci\IeC {\'o}n en rob\IeC {\'o}tica\relax }}{6}{figure.caption.10}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Sistema de control rob\IeC {\'o}tico DX100.\relax }}{7}{figure.caption.11}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Pares cinem\IeC {\'a}ticos superiores e inferiores\relax }}{8}{figure.caption.12}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Pares cinem\IeC {\'a}ticos superiores e inferiores\relax }}{10}{figure.caption.12}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Robot en movimiento libre\relax }}{10}{figure.caption.13}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Representaci\IeC {\'o}n de un sistema como un bloque con sus entradas y salidas\relax }}{14}{figure.caption.13}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Robot en movimiento libre\relax }}{14}{figure.caption.14}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Robot en interacci\IeC {\'o}n con el medio ambiente\relax }}{15}{figure.caption.15}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces \IeC {\'O}rgano Terminal\relax }}{15}{figure.caption.15}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces \IeC {\'O}rgano Terminal\relax }}{20}{figure.caption.17}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
