@@ -10,6 +10,41 @@
 \contentsline {subsection}{\numberline {1.1.5}Contribuciones}{3}{subsection.1.1.5}
 \contentsline {subsection}{\numberline {1.1.6}Estructura de la tesis}{3}{subsection.1.1.6}
 \contentsline {section}{\numberline {1.2}Marco te\IeC {\'o}rico}{3}{section.1.2}
+<<<<<<< HEAD
+\contentsline {chapter}{\numberline {2}\leavevmode {\color {Azul}Descripci\IeC {\'o}n de un robot de 5 grados de libertad}}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Articulaciones y pares cinem\IeC {\'a}ticos}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Cinem\IeC {\'a}tica directa}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Posici\IeC {\'o}n}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Orientaci\IeC {\'o}n}{9}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Cinem\IeC {\'a}tica inversa}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Modelado}{9}{section.2.4}
+\contentsline {chapter}{\numberline {3}\leavevmode {\color {Azul}Control}}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Conceptos de control}{11}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Familiarizaci\IeC {\'o}n con el sistema fisico a controlarse}{11}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Modelado din\IeC {\'a}mico}{12}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Especificaciones de control}{12}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Esquemas de control}{12}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}PID}{12}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Control por par calculado}{12}{section.3.3}
+\contentsline {section}{\numberline {3.4}Par\IeC {\'a}metros de dise\IeC {\~n}o}{12}{section.3.4}
+\contentsline {chapter}{\numberline {4}\leavevmode {\color {Azul}Dise\IeC {\~n}o Mec\IeC {\'a}nico}}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Elementos f\IeC {\'\i }sicos}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Barras, rodamientos, contrapesos}{15}{section.4.2}
+\contentsline {section}{\numberline {4.3}M\IeC {\'e}todos de uni\IeC {\'o}n}{15}{section.4.3}
+\contentsline {chapter}{\numberline {5}\leavevmode {\color {Azul}Manufactura e instrumentaci\IeC {\'o}n}}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}Ensamble de componentes}{17}{section.5.1}
+\contentsline {section}{\numberline {5.2}Sensores y actuadores}{17}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Motores}{17}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Decodificador \IeC {\'o}ptico}{17}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Microcontrolador}{17}{section.5.3}
+\contentsline {chapter}{\numberline {6}\leavevmode {\color {Azul}Implementaci\IeC {\'o}n}}{19}{chapter.6}
+\contentsline {section}{\numberline {6.1}Programaci\IeC {\'o}n}{19}{section.6.1}
+\contentsline {section}{\numberline {6.2}Puesta en marcha}{19}{section.6.2}
+\contentsline {section}{\numberline {6.3}Pruebas mec\IeC {\'a}nicas}{19}{section.6.3}
+\contentsline {chapter}{\numberline {A}Resultados}{21}{appendix.Alph1}
+\contentsline {chapter}{\numberline {B}Referencias}{23}{appendix.Alph2}
+\contentsline {chapter}{\numberline {C}Conclusiones/Trabajo a futuro}{25}{appendix.Alph3}
+=======
 \contentsline {chapter}{\numberline {2}\leavevmode {\color {Azul}Descripci\IeC {\'o}n de un robot de 5 grados de libertad}}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Articulaciones y pares cinem\IeC {\'a}ticos}{9}{section.2.1}
 \contentsline {section}{\numberline {2.2}Cinem\IeC {\'a}tica directa}{11}{section.2.2}
@@ -43,3 +78,4 @@
 \contentsline {chapter}{\numberline {A}Resultados}{23}{appendix.Alph1}
 \contentsline {chapter}{\numberline {B}Referencias}{25}{appendix.Alph2}
 \contentsline {chapter}{\numberline {C}Conclusiones/Trabajo a futuro}{27}{appendix.Alph3}
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
