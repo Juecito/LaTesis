@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=latex 2018.8.29)  15 MAR 2019 13:10
+=======
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.23)  11 FEB 2019 05:23
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -864,6 +868,30 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
+<<<<<<< HEAD
+\c@blindtext=\count140
+\c@Blindtext=\count141
+\c@blind@countparstart=\count142
+\blind@countxx=\count143
+\blindtext@numBlindtext=\count144
+\blind@countyy=\count145
+\c@blindlist=\count146
+\c@blindlistlevel=\count147
+\c@blindlist@level=\count148
+\blind@listitem=\count149
+\c@blind@listcount=\count150
+\c@blind@levelcount=\count151
+\blind@mathformula=\count152
+\blind@Mathformula=\count153
+\c@blind@randomcount=\count154
+\c@blind@randommax=\count155
+\c@blind@pangramcount=\count156
+\c@blind@pangrammax=\count157
+) ("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\esvect\esvect.st
+y"
+Package: esvect 
+\symesvector=\mathgroup7
+=======
 \c@blindtext=\count138
 \c@Blindtext=\count139
 \c@blind@countparstart=\count140
@@ -882,6 +910,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count153
 \c@blind@pangramcount=\count154
 \c@blind@pangrammax=\count155
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 )
 \@input{Latex/Macros/MacroFile1.aux}
 \openout2 = `Latex/Macros/MacroFile1.aux'.
@@ -898,6 +927,23 @@ LaTeX Info: Redefining \% on input line 21.
 (Apendice1/Apendice1.aux))
 \openout1 = `tesis.aux'.
 
+<<<<<<< HEAD
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+\c@lstlisting=\count158
+=======
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
@@ -913,10 +959,15 @@ LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 \c@lstlisting=\count156
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
+<<<<<<< HEAD
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+=======
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
 
@@ -949,9 +1000,10 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.jpg,.pdf,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 \AtBeginShipoutBox=\box58
-Package backref Info: ** backref set up for natbib ** on input line 40.
-Package hyperref Info: Link coloring ON on input line 40.
+Package backref Info: ** backref set up for natbib ** on input line 41.
+Package hyperref Info: Link coloring ON on input line 41.
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
 ty"
@@ -963,13 +1015,68 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
  (tesis.out) (tesis.out)
 \@outlinefile=\write4
 \openout4 = `tesis.out'.
 
+<<<<<<< HEAD
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+! LaTeX Error: File `Latex/Classes/Escudos/unam_azul_5x5cm' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               									% Se redefinió este comando en el archivo de la cla...
+
+I could not locate the file with any of these extensions:
+.eps,.ps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `Latex/Classes/Escudos/fi_azul' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \maketitle
+               									% Se redefinió este comando en el archivo de la cla...
+
+I could not locate the file with any of these extensions:
+.eps,.ps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
+("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
+("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 43.
+("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+esvect on input line 43.
+
+ ("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\esvect\uesvect.fd
+"
+File: uesvect.fd 
+)
+Overfull \vbox (119.95827pt too high) detected at line 43
+=======
 <Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=179, 142.26376pt x 142.26376pt>
 File: Latex/Classes/Escudos/unam_azul_5x5cm.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/unam_azul_5x5cm.pdf>
@@ -996,15 +1103,16 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 42.
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 Overfull \vbox (255.31291pt too high) detected at line 42
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
  []
 
 
-Underfull \hbox (badness 10000) detected at line 42
+Underfull \hbox (badness 10000) detected at line 43
 \OT1/cmr/m/n/24.88 T E S I S
  []
 
 
-Overfull \vbox (274.42735pt too high) detected at line 42
+Overfull \vbox (274.42735pt too high) detected at line 43
  []
 
 [1
@@ -1081,8 +1189,8 @@ Package spanish Warning: Replacing `OT1/cmr/bx/sc' by
 \tf@toc=\write5
 \openout5 = `tesis.toc'.
 
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
  [10] (tesis.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1313,6 +1421,12 @@ LaTeX Info: Redefining \% on input line 128.
  [5 <./Capitulo1/figs/StanfordArm.jpg>]
 LaTeX Info: Redefining \. on input line 128.
 LaTeX Info: Redefining \% on input line 128.
+<<<<<<< HEAD
+ [5])
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+=======
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 ! LaTeX Error: Undefined color `AZUL'.
@@ -1321,8 +1435,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
+<<<<<<< HEAD
+l.71 \include{Capitulo1/introduccion}
+                                                 % ~10 páginas - Explicar e...
+
+=======
 l.128 
       
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1372,19 +1492,55 @@ Package pdftex.def Info: Capitulo2/figs/pares.png  used on input line 16.
 LaTeX Warning: Float too large for page by 13.91528pt on input line 19.
 
 
+<<<<<<< HEAD
+File: Capitulo2/figs/pares.png Graphic file (type eps)
+<Capitulo2/figs/pares.png> [7
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 23--24
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
+
+
+
+]
+
+! LaTeX Error: Cannot determine size of graphic in Capitulo2/figs/SistemaPuntoV
+ectores.png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 ...]{Capitulo2/figs/SistemaPuntoVectores.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Capitulo2/figs/SistemaPuntoVectores.png Graphic file (type eps)
+<Capitulo2/figs/SistemaPuntoVectores.png>
+Underfull \hbox (badness 10000) in paragraph at lines 27--35
 
  []
 
+<<<<<<< HEAD
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
+Overfull \hbox (2.86717pt too wide) in paragraph at lines 49--51
+[][]\OT1/cmr/m/n/10.95 Es im-por-tan-te re-cor-dar que $\OML/cmm/m/it/10.95 p$ 
+\OT1/cmr/m/n/10.95 es una re-pre-sen-ta-cion del pun-to co-mo en-ti-dad geome
+tri-
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+=======
 [9]
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
 
 ! LaTeX Error: Undefined color `AZUL'.
 
@@ -1392,6 +1548,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
+<<<<<<< HEAD
+l.51 \[
+       
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[8])
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+ [9]
+\openout2 = `Capitulo3/control.aux'.
+
+ (Capitulo3/control.tex [10
+=======
 l.24 
      
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1404,6 +1574,7 @@ LaTeX Info: Redefining \% on input line 71.
 \openout2 = `Capitulo3/control.aux'.
 
  (Capitulo3/control.tex [12
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
@@ -1419,6 +1590,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
+<<<<<<< HEAD
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+=======
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
@@ -1426,6 +1601,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
 [13]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
  []
 
@@ -1477,11 +1653,17 @@ l.92 \begin{table}[htdp]
 
 Option `d' ignored and `p' used.
 
+<<<<<<< HEAD
+)
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+=======
 LaTeX Info: Redefining \. on input line 122.
 LaTeX Info: Redefining \% on input line 122.
 [15 <./Capitulo3/figs/robotGis.png>])
 LaTeX Info: Redefining \. on input line 72.
 LaTeX Info: Redefining \% on input line 72.
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 ! LaTeX Error: Undefined color `AZUL'.
@@ -1490,25 +1672,43 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72 \include{Capitulo3/control}
+l.73 \include{Capitulo3/control}
                                       % ~20 páginas - Explicar el problema ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+<<<<<<< HEAD
+[12]
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+ [13]
+\openout2 = `Capitulo4/diseno_mecanico.aux'.
+
+ (Capitulo4/diseno_mecanico.tex [14
+=======
 [16]
 \openout2 = `Capitulo4/diseno_mecanico.aux'.
 
  (Capitulo4/diseno_mecanico.tex
 Cap\'{\i }tulo 4.
 ) [17
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
 ]
+<<<<<<< HEAD
+Cap\'{\i }tulo 4.
+) [15]
+\openout2 = `Capitulo5/manufactura_instrumentacion.aux'.
+
+ (Capitulo5/manufactura_instrumentacion.tex [16
+=======
 \openout2 = `Capitulo5/manufactura_instrumentacion.aux'.
 
  (Capitulo5/manufactura_instrumentacion.tex [18
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
@@ -1536,41 +1736,72 @@ l.74 ...ude{Capitulo5/manufactura_instrumentacion}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+<<<<<<< HEAD
+File: Capitulo5/figs/Gripper.png Graphic file (type eps)
+<Capitulo5/figs/Gripper.png>) [17]
+\openout2 = `Capitulo6/implementacion.aux'.
+
+ (Capitulo6/implementacion.tex [18
+=======
 [20 <./Capitulo5/figs/Gripper.png>]
 \openout2 = `Capitulo6/implementacion.aux'.
 
  (Capitulo6/implementacion.tex
 Cap\'{\i }tulo 6.
 ) [21
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
 ]
+<<<<<<< HEAD
+Cap\'{\i }tulo 6.
+) [19]
+\openout2 = `Resultados/resultados.aux'.
+
+ (Resultados/resultados.tex [20
+=======
 \openout2 = `Resultados/resultados.aux'.
 
  (Resultados/resultados.tex [22
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
 ]
 Ap\'{e}ndice A.
+<<<<<<< HEAD
+) [21]
+\openout2 = `Apendice1/Apendice1.aux'.
+
+ (Apendice1/Apendice1.tex [22
+=======
 ) [23]
 \openout2 = `Apendice1/Apendice1.aux'.
 
  (Apendice1/Apendice1.tex [24
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
 ]
 Ap\'{e}ndice B.
+<<<<<<< HEAD
+[23] [24
+
+]
+Ap\'{e}ndice C.
+) [25]
+=======
 [25] [26
 
 ]
 Ap\'{e}ndice C.
 ) [27]
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 No file tesis.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
 (tesis.aux
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
@@ -1581,14 +1812,36 @@ LaTeX Info: Redefining \% on input line 21.
 (Capitulo4/diseno_mecanico.aux) (Capitulo5/manufactura_instrumentacion.aux)
 (Capitulo6/implementacion.aux) (Resultados/resultados.aux)
 (Apendice1/Apendice1.aux))
+<<<<<<< HEAD
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 99.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
+=======
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 Package rerunfilecheck Info: File `tesis.out' has not changed.
 (rerunfilecheck)             Checksum: AED2887AE4623698A5DE06F0B2EC4D0D;3114.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+<<<<<<< HEAD
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
+ ) 
+Here is how much of TeX's memory you used:
+ 11148 strings out of 492974
+ 167343 string characters out of 3126718
+ 297368 words of memory out of 3000000
+ 14693 multiletter control sequences out of 15000+200000
+ 17622 words of font info for 74 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,13n,48p,2368b,1033s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on tesis.dvi (41 pages, 117404 bytes).
+=======
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
@@ -1619,3 +1872,4 @@ PDF statistics:
  104 named destinations out of 1000 (max. 500000)
  413 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+>>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
