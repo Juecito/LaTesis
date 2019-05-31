@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=latex 2018.8.29)  15 MAR 2019 13:10
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.23)  11 FEB 2019 05:23
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.4.29)  31 MAY 2019 00:38
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -444,16 +440,16 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
 ty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count106
 \lst@skipnumbers=\count107
 \lst@framebox=\box29
 )
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
 cfg"
-File: listings.cfg 2015/06/04 1.6 listings configuration
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\emptypage\emptypag
 e.sty"
@@ -462,11 +458,11 @@ pages
 )
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
 y"
-Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
 ty"
-Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen116
 \captionmargin@=\dimen117
@@ -476,7 +472,8 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen121
 \caption@hangindent=\dimen122
 )
-\c@ContinuedFloat=\count108
+\c@caption@flags=\count108
+\c@ContinuedFloat=\count109
 Package caption Info: listings package is loaded.
 )
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigur
@@ -488,10 +485,10 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigbottomskip=\skip48
 \subfigcapmargin=\dimen124
 \subfiglabelskip=\skip49
-\c@subfigure=\count109
-\c@lofdepth=\count110
-\c@subtable=\count111
-\c@lotdepth=\count112
+\c@subfigure=\count110
+\c@lofdepth=\count111
+\c@subtable=\count112
+\c@lotdepth=\count113
 
 ****************************************
 * Local config file subfigure.cfg used *
@@ -525,7 +522,7 @@ Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 )
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
 sty"
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip52
 \f@nch@O@elh=\skip53
@@ -562,15 +559,15 @@ Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2018/02/14 3.18 Babel common definitions
-\babel@savecnt=\count113
+\babel@savecnt=\count114
 \U@D=\dimen126
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
 ef")
-\bbl@dirlevel=\count114
+\bbl@dirlevel=\count115
 )
 \es@quottoks=\toks24
-\es@quotdepth=\count115
+\es@quotdepth=\count116
 Package babel Info: Making " an active character on input line 561.
 ))
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
@@ -592,8 +589,8 @@ sty"
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks25
 \footnotemargin=\dimen127
-\c@pp@next@reset=\count116
-\c@@fnserial=\count117
+\c@pp@next@reset=\count117
+\c@@fnserial=\count118
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -608,21 +605,21 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip61
 \bibsep=\skip62
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count118
+\c@NAT@ctr=\count119
 ) ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
 "
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count119
+\c@tracingmulticols=\count120
 \mult@box=\box30
 \multicol@leftmargin=\dimen128
-\c@unbalance=\count120
-\c@collectmore=\count121
-\doublecol@number=\count122
-\multicoltolerance=\count123
-\multicolpretolerance=\count124
+\c@unbalance=\count121
+\c@collectmore=\count122
+\doublecol@number=\count123
+\multicoltolerance=\count124
+\multicolpretolerance=\count125
 \full@width=\dimen129
 \page@free=\dimen130
 \premulticols=\dimen131
@@ -653,14 +650,14 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box51
 \@tempa=\box52
 \@tempa=\box53
-\c@columnbadness=\count125
-\c@finalcolumnbadness=\count126
+\c@columnbadness=\count126
+\c@finalcolumnbadness=\count127
 \last@try=\dimen134
 \multicolovershoot=\dimen135
 \multicolundershoot=\dimen136
 \mult@nat@firstbox=\box54
 \colbreak@box=\box55
-\mc@col@check@num=\count127
+\mc@col@check@num=\count128
 )
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibin
 d.sty"
@@ -686,16 +683,48 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 )
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nomencl\nomencl.st
 y"
-Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+Package: nomencl 2019/02/08 v5.1 Nomenclature package
+
+("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
+tex"
+("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
+)
+\XKV@depth=\count129
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\tocbas
+ic.sty"
+Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
+
+("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrbas
+e.sty"
+Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfi
+le.sty"
+Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
+))
+\scr@dte@tocline@numberwidth=\skip67
+\scr@dte@tocline@numbox=\box57
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 24.
+Package tocbasic Info: setting babel extension for `nls' on input line 25.
 \nomlabelwidth=\dimen142
 \nom@tempdim=\dimen143
-\nomitemsep=\skip67
+\nomitemsep=\skip68
 )
 \@nomenclaturefile=\write3
 \openout3 = `tesis.nlo'.
 
-
-Writing nomenclature file tesis.nlo
+Package nomencl Info: Writing nomenclature file tesis.nlo on input line 73.
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
 ty"
@@ -764,8 +793,8 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen144
-\Hy@linkcounter=\count128
-\Hy@pagecounter=\count129
+\Hy@linkcounter=\count130
+\Hy@pagecounter=\count131
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
 f"
@@ -773,7 +802,7 @@ File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count130
+\Hy@SavedSpaceFactor=\count132
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
 cfg"
@@ -808,7 +837,7 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 ))
-\c@Hy@tempcnt=\count131
+\c@Hy@tempcnt=\count133
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
@@ -816,7 +845,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen145
-\Fld@menulength=\count132
+\Fld@menulength=\count134
 \Field@Width=\dimen146
 \Fld@charsize=\dimen147
 Package hyperref Info: Hyper figures ON on input line 6367.
@@ -828,18 +857,18 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count133
-\c@Item=\count134
-\c@Hfootnote=\count135
+\Hy@abspage=\count135
+\c@Item=\count136
+\c@Hfootnote=\count137
 )
 Package hyperref Info: Driver: hpdftex.
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
 ef"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count136
-\c@bookmark@seq@number=\count137
-\Hy@SectionHShift=\skip68
+\Fld@listcount=\count138
+\c@bookmark@seq@number=\count139
+\Hy@SectionHShift=\skip69
 )
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
 sty"
@@ -868,7 +897,6 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-<<<<<<< HEAD
 \c@blindtext=\count140
 \c@Blindtext=\count141
 \c@blind@countparstart=\count142
@@ -887,30 +915,10 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count155
 \c@blind@pangramcount=\count156
 \c@blind@pangrammax=\count157
-) ("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\esvect\esvect.st
+) ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\esvect\esvect.st
 y"
 Package: esvect 
 \symesvector=\mathgroup7
-=======
-\c@blindtext=\count138
-\c@Blindtext=\count139
-\c@blind@countparstart=\count140
-\blind@countxx=\count141
-\blindtext@numBlindtext=\count142
-\blind@countyy=\count143
-\c@blindlist=\count144
-\c@blindlistlevel=\count145
-\c@blindlist@level=\count146
-\blind@listitem=\count147
-\c@blind@listcount=\count148
-\c@blind@levelcount=\count149
-\blind@mathformula=\count150
-\blind@Mathformula=\count151
-\c@blind@randomcount=\count152
-\c@blind@randommax=\count153
-\c@blind@pangramcount=\count154
-\c@blind@pangrammax=\count155
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 )
 \@input{Latex/Macros/MacroFile1.aux}
 \openout2 = `Latex/Macros/MacroFile1.aux'.
@@ -927,7 +935,6 @@ LaTeX Info: Redefining \% on input line 21.
 (Apendice1/Apendice1.aux))
 \openout1 = `tesis.aux'.
 
-<<<<<<< HEAD
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
@@ -943,48 +950,27 @@ LaTeX Font Info:    ... okay on input line 41.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
 \c@lstlisting=\count158
-=======
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-\c@lstlisting=\count156
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
-<<<<<<< HEAD
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
-=======
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
 
-("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
+("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-p
+df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count157
+\scratchcounter=\count159
 \scratchdimen=\dimen150
-\scratchbox=\box57
-\nofMPsegments=\count158
-\nofMParguments=\count159
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count160
+\scratchbox=\box58
+\nofMPsegments=\count160
+\nofMParguments=\count161
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count162
 \MPscratchDim=\dimen151
-\MPnumerator=\count161
-\makeMPintoPDFobject=\count162
-\everyMPtoPDFconversion=\toks28
+\MPnumerator=\count163
+\makeMPintoPDFobject=\count164
+\everyMPtoPDFconversion=\toks30
 )
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
@@ -1000,8 +986,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.jpg,.pdf,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
-\AtBeginShipoutBox=\box58
+\AtBeginShipoutBox=\box59
 Package backref Info: ** backref set up for natbib ** on input line 41.
 Package hyperref Info: Link coloring ON on input line 41.
 
@@ -1013,7 +998,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count163
+\c@section@level=\count165
 )
 LaTeX Info: Redefining \ref on input line 41.
 LaTeX Info: Redefining \pageref on input line 41.
@@ -1022,88 +1007,38 @@ LaTeX Info: Redefining \nameref on input line 41.
 \@outlinefile=\write4
 \openout4 = `tesis.out'.
 
-<<<<<<< HEAD
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-
-! LaTeX Error: File `Latex/Classes/Escudos/unam_azul_5x5cm' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \maketitle
-               									% Se redefinió este comando en el archivo de la cla...
-
-I could not locate the file with any of these extensions:
-.eps,.ps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `Latex/Classes/Escudos/fi_azul' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 \maketitle
-               									% Se redefinió este comando en el archivo de la cla...
-
-I could not locate the file with any of these extensions:
-.eps,.ps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 43.
-("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 43.
-("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 43.
-("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-LaTeX Font Info:    Try loading font information for U+esvect on input line 43.
-
- ("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\esvect\uesvect.fd
-"
-File: uesvect.fd 
-)
-Overfull \vbox (119.95827pt too high) detected at line 43
-=======
 <Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=179, 142.26376pt x 142.26376pt>
 File: Latex/Classes/Escudos/unam_azul_5x5cm.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/unam_azul_5x5cm.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/unam_azul_5x5cm.pdf  used on inp
-ut line 42.
+ut line 43.
 (pdftex.def)             Requested size: 73.97975pt x 73.97733pt.
 <Latex/Classes/Escudos/fi_azul.pdf, id=180, 332.24126pt x 393.47pt>
 File: Latex/Classes/Escudos/fi_azul.pdf Graphic file (type pdf)
 <use Latex/Classes/Escudos/fi_azul.pdf>
 Package pdftex.def Info: Latex/Classes/Escudos/fi_azul.pdf  used on input line 
-42.
+43.
 (pdftex.def)             Requested size: 62.46237pt x 73.97733pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
 
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 42.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 43.
 ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \vbox (255.31291pt too high) detected at line 42
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
+LaTeX Font Info:    Try loading font information for U+esvect on input line 43.
+
+ ("C:\Users\jarbp\AppData\Local\Programs\MiKTeX 2.9\tex\latex\esvect\uesvect.fd
+"
+File: uesvect.fd 
+)
+Overfull \vbox (255.31291pt too high) detected at line 43
  []
 
 
@@ -1231,7 +1166,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
 
 ]
-<Capitulo1/figs/EstructuraManipulador.png, id=341, 930.47626pt x 517.33275pt>
+<Capitulo1/figs/EstructuraManipulador.png, id=345, 930.47626pt x 517.33275pt>
 File: Capitulo1/figs/EstructuraManipulador.png Graphic file (type png)
 <use Capitulo1/figs/EstructuraManipulador.png>
 Package pdftex.def Info: Capitulo1/figs/EstructuraManipulador.png  used on inpu
@@ -1266,23 +1201,23 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
-<Capitulo1/figs/Unimation.PNG, id=348, 988.29225pt x 393.26926pt>
+<Capitulo1/figs/Unimation.PNG, id=352, 988.29225pt x 393.26926pt>
 File: Capitulo1/figs/Unimation.PNG Graphic file (type png)
 <use Capitulo1/figs/Unimation.PNG>
 Package pdftex.def Info: Capitulo1/figs/Unimation.PNG  used on input line 87.
 (pdftex.def)             Requested size: 395.30989pt x 157.30492pt.
-<Capitulo1/figs/StanfordArm.jpg, id=351, 1136.245pt x 666.49pt>
+<Capitulo1/figs/StanfordArm.jpg, id=355, 1136.245pt x 666.49pt>
 File: Capitulo1/figs/StanfordArm.jpg Graphic file (type jpg)
 <use Capitulo1/figs/StanfordArm.jpg>
 Package pdftex.def Info: Capitulo1/figs/StanfordArm.jpg  used on input line 95.
 
 (pdftex.def)             Requested size: 284.06055pt x 166.62209pt.
-<Capitulo1/figs/puma.PNG, id=354, 988.8945pt x 393.8715pt>
+<Capitulo1/figs/puma.PNG, id=358, 988.8945pt x 393.8715pt>
 File: Capitulo1/figs/puma.PNG Graphic file (type png)
 <use Capitulo1/figs/puma.PNG>
 Package pdftex.def Info: Capitulo1/figs/puma.PNG  used on input line 104.
 (pdftex.def)             Requested size: 395.5508pt x 157.5458pt.
-<Capitulo1/figs/Yaskawa.jpg, id=356, 527.9725pt x 351.3125pt>
+<Capitulo1/figs/Yaskawa.jpg, id=360, 527.9725pt x 351.3125pt>
 File: Capitulo1/figs/Yaskawa.jpg Graphic file (type jpg)
 <use Capitulo1/figs/Yaskawa.jpg>
 Package pdftex.def Info: Capitulo1/figs/Yaskawa.jpg  used on input line 122.
@@ -1421,12 +1356,6 @@ LaTeX Info: Redefining \% on input line 128.
  [5 <./Capitulo1/figs/StanfordArm.jpg>]
 LaTeX Info: Redefining \. on input line 128.
 LaTeX Info: Redefining \% on input line 128.
-<<<<<<< HEAD
- [5])
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
-=======
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 ! LaTeX Error: Undefined color `AZUL'.
@@ -1435,20 +1364,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-<<<<<<< HEAD
-l.71 \include{Capitulo1/introduccion}
-                                                 % ~10 páginas - Explicar e...
-
-=======
 l.128 
       
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [6 <./Capitulo1/figs/puma.PNG>])
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
  [7 <./Capitulo1/figs/Yaskawa.jpg>]
 \openout2 = `Capitulo2/descripcion_robot_5GDL.aux'.
 
@@ -1483,7 +1406,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Capitulo2/figs/pares.png, id=389, 404.30852pt x 578.87202pt>
+<Capitulo2/figs/pares.png, id=393, 404.30852pt x 578.87202pt>
 File: Capitulo2/figs/pares.png Graphic file (type png)
 <use Capitulo2/figs/pares.png>
 Package pdftex.def Info: Capitulo2/figs/pares.png  used on input line 16.
@@ -1491,56 +1414,10 @@ Package pdftex.def Info: Capitulo2/figs/pares.png  used on input line 16.
 
 LaTeX Warning: Float too large for page by 13.91528pt on input line 19.
 
-
-<<<<<<< HEAD
-File: Capitulo2/figs/pares.png Graphic file (type eps)
-<Capitulo2/figs/pares.png> [7
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
-
-
-
-]
-
-! LaTeX Error: Cannot determine size of graphic in Capitulo2/figs/SistemaPuntoV
-ectores.png (no BoundingBox).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 ...]{Capitulo2/figs/SistemaPuntoVectores.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-File: Capitulo2/figs/SistemaPuntoVectores.png Graphic file (type eps)
-<Capitulo2/figs/SistemaPuntoVectores.png>
-Underfull \hbox (badness 10000) in paragraph at lines 27--35
-
- []
-
-<<<<<<< HEAD
-
-Overfull \hbox (2.86717pt too wide) in paragraph at lines 49--51
-[][]\OT1/cmr/m/n/10.95 Es im-por-tan-te re-cor-dar que $\OML/cmm/m/it/10.95 p$ 
-\OT1/cmr/m/n/10.95 es una re-pre-sen-ta-cion del pun-to co-mo en-ti-dad geome
-tri-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
-
- []
-=======
 [9]
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
 
 ! LaTeX Error: Undefined color `AZUL'.
 
@@ -1548,37 +1425,58 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-<<<<<<< HEAD
-l.51 \[
-       
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[8])
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
- [9]
-\openout2 = `Capitulo3/control.aux'.
-
- (Capitulo3/control.tex [10
-=======
 l.24 
      
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[10 <./Capitulo2/figs/pares.png>])
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
- [11]
+[10 <./Capitulo2/figs/pares.png>]
+<Capitulo2/figs/SistemaPuntoVectores.png, id=405, 767.11594pt x 581.17125pt>
+File: Capitulo2/figs/SistemaPuntoVectores.png Graphic file (type png)
+<use Capitulo2/figs/SistemaPuntoVectores.png>
+Package pdftex.def Info: Capitulo2/figs/SistemaPuntoVectores.png  used on input
+ line 30.
+(pdftex.def)             Requested size: 230.13655pt x 174.35272pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--35
+
+ []
+
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+[11 <./Capitulo2/figs/SistemaPuntoVectores.png>]
+Overfull \hbox (2.86717pt too wide) in paragraph at lines 49--51
+[]\OT1/cmr/m/n/10.95 Es im-por-tan-te re-cor-dar que $\OML/cmm/m/it/10.95 p$ \O
+T1/cmr/m/n/10.95 es una re-pre-sen-ta-cion del pun-to co-mo en-ti-dad geometr
+i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+)
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+
+
+! LaTeX Error: Undefined color `AZUL'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \include{Capitulo2/descripcion_robot_5GDL}
+                                                          % ~20 páginas - P...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[12]
 \openout2 = `Capitulo3/control.aux'.
 
- (Capitulo3/control.tex [12
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
-
-
-
-]
+ (Capitulo3/control.tex
 Cap\'{\i }tulo 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
@@ -1590,22 +1488,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-<<<<<<< HEAD
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-=======
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-[13]
+[13
+
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
  []
 
-<Capitulo3/figs/diagSis.png, id=414, 477.8839pt x 141.57326pt>
+<Capitulo3/figs/diagSis.png, id=427, 477.8839pt x 141.57326pt>
 File: Capitulo3/figs/diagSis.png Graphic file (type png)
 <use Capitulo3/figs/diagSis.png>
 Package pdftex.def Info: Capitulo3/figs/diagSis.png  used on input line 47.
@@ -1615,7 +1512,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
-<Capitulo3/figs/robotLaser.png, id=415, 725.5908pt x 483.7272pt>
+<Capitulo3/figs/robotLaser.png, id=428, 725.5908pt x 483.7272pt>
 File: Capitulo3/figs/robotLaser.png Graphic file (type png)
 <use Capitulo3/figs/robotLaser.png>
 Package pdftex.def Info: Capitulo3/figs/robotLaser.png  used on input line 56.
@@ -1635,7 +1532,7 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [14 <./Capitulo3/figs/diagSis.png> <./Capitulo3/figs/robotLaser.png>]
-<Capitulo3/figs/robotGis.png, id=423, 547.2947pt x 649.67719pt>
+<Capitulo3/figs/robotGis.png, id=436, 547.2947pt x 649.67719pt>
 File: Capitulo3/figs/robotGis.png Graphic file (type png)
 <use Capitulo3/figs/robotGis.png>
 Package pdftex.def Info: Capitulo3/figs/robotGis.png  used on input line 65.
@@ -1653,17 +1550,11 @@ l.92 \begin{table}[htdp]
 
 Option `d' ignored and `p' used.
 
-<<<<<<< HEAD
-)
-LaTeX Info: Redefining \. on input line 73.
-LaTeX Info: Redefining \% on input line 73.
-=======
 LaTeX Info: Redefining \. on input line 122.
 LaTeX Info: Redefining \% on input line 122.
 [15 <./Capitulo3/figs/robotGis.png>])
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
 
 
 ! LaTeX Error: Undefined color `AZUL'.
@@ -1678,50 +1569,32 @@ l.73 \include{Capitulo3/control}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<<<<<<< HEAD
-[12]
-LaTeX Info: Redefining \. on input line 73.
-LaTeX Info: Redefining \% on input line 73.
- [13]
-\openout2 = `Capitulo4/diseno_mecanico.aux'.
-
- (Capitulo4/diseno_mecanico.tex [14
-=======
 [16]
 \openout2 = `Capitulo4/diseno_mecanico.aux'.
 
  (Capitulo4/diseno_mecanico.tex
 Cap\'{\i }tulo 4.
 ) [17
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
 ]
-<<<<<<< HEAD
-Cap\'{\i }tulo 4.
-) [15]
-\openout2 = `Capitulo5/manufactura_instrumentacion.aux'.
-
- (Capitulo5/manufactura_instrumentacion.tex [16
-=======
 \openout2 = `Capitulo5/manufactura_instrumentacion.aux'.
 
  (Capitulo5/manufactura_instrumentacion.tex [18
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
 ]
 Cap\'{\i }tulo 5.
-<Capitulo5/figs/Gripper.png, id=445, 525.76425pt x 349.90726pt>
+<Capitulo5/figs/Gripper.png, id=457, 525.76425pt x 349.90726pt>
 File: Capitulo5/figs/Gripper.png Graphic file (type png)
 <use Capitulo5/figs/Gripper.png>
 Package pdftex.def Info: Capitulo5/figs/Gripper.png  used on input line 14.
 (pdftex.def)             Requested size: 262.88147pt x 174.95319pt.
 ) [19]
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
 
 
 ! LaTeX Error: Undefined color `AZUL'.
@@ -1730,75 +1603,44 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 ...ude{Capitulo5/manufactura_instrumentacion}
+l.75 ...ude{Capitulo5/manufactura_instrumentacion}
                                                               % ~5 páginas ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<<<<<<< HEAD
-File: Capitulo5/figs/Gripper.png Graphic file (type eps)
-<Capitulo5/figs/Gripper.png>) [17]
-\openout2 = `Capitulo6/implementacion.aux'.
-
- (Capitulo6/implementacion.tex [18
-=======
 [20 <./Capitulo5/figs/Gripper.png>]
 \openout2 = `Capitulo6/implementacion.aux'.
 
  (Capitulo6/implementacion.tex
 Cap\'{\i }tulo 6.
 ) [21
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
 ]
-<<<<<<< HEAD
-Cap\'{\i }tulo 6.
-) [19]
-\openout2 = `Resultados/resultados.aux'.
-
- (Resultados/resultados.tex [20
-=======
 \openout2 = `Resultados/resultados.aux'.
 
  (Resultados/resultados.tex [22
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
 ]
 Ap\'{e}ndice A.
-<<<<<<< HEAD
-) [21]
-\openout2 = `Apendice1/Apendice1.aux'.
-
- (Apendice1/Apendice1.tex [22
-=======
 ) [23]
 \openout2 = `Apendice1/Apendice1.aux'.
 
  (Apendice1/Apendice1.tex [24
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 
 
 
 ]
 Ap\'{e}ndice B.
-<<<<<<< HEAD
-[23] [24
-
-]
-Ap\'{e}ndice C.
-) [25]
-=======
 [25] [26
 
 ]
 Ap\'{e}ndice C.
 ) [27]
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 No file tesis.bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
@@ -1812,64 +1654,47 @@ LaTeX Info: Redefining \% on input line 21.
 (Capitulo4/diseno_mecanico.aux) (Capitulo5/manufactura_instrumentacion.aux)
 (Capitulo6/implementacion.aux) (Resultados/resultados.aux)
 (Apendice1/Apendice1.aux))
-<<<<<<< HEAD
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 99.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
-=======
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
 Package rerunfilecheck Info: File `tesis.out' has not changed.
 (rerunfilecheck)             Checksum: AED2887AE4623698A5DE06F0B2EC4D0D;3114.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-<<<<<<< HEAD
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 11148 strings out of 492974
- 167343 string characters out of 3126718
- 297368 words of memory out of 3000000
- 14693 multiletter control sequences out of 15000+200000
+ 12970 strings out of 493305
+ 197045 string characters out of 3129802
+ 343251 words of memory out of 3000000
+ 16050 multiletter control sequences out of 15000+200000
  17622 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,13n,48p,2368b,1033s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on tesis.dvi (41 pages, 117404 bytes).
-=======
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
- ) 
-Here is how much of TeX's memory you used:
- 11881 strings out of 493305
- 176534 string characters out of 3129802
- 293443 words of memory out of 3000000
- 14997 multiletter control sequences out of 15000+200000
- 15642 words of font info for 60 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 43i,12n,48p,2366b,1030s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,13n,79p,2366b,1060s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/jarbp/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jarbp/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ja
-rbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-<C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr12.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr17.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/jarbp/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/jarbp/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on tesis.pdf (43 pages, 4859901 bytes).
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ja
+rbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jarbp/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/jarbp/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/jarbp/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
+s/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.p
+fb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy6.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/jarbp/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on tesis.pdf (43 pages, 4919930 bytes).
 PDF statistics:
- 548 PDF objects out of 1000 (max. 8388607)
- 104 named destinations out of 1000 (max. 500000)
- 413 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 575 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
+ 418 words of extra memory for PDF output out of 10000 (max. 10000000)
 
->>>>>>> 327ba750dec314263a5ceefceb1dfc408fc1626d
