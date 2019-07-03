@@ -21,25 +21,25 @@
 \contentsline {section}{\numberline {3.1}Conceptos de control}{13}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Familiarizaci\IeC {\'o}n con el sistema f\IeC {\'\i }sico a controlarse}{14}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Modelado din\IeC {\'a}mico}{16}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Especificaciones de control}{16}{subsection.3.1.3}
-\contentsline {section}{\numberline {3.2}Esquemas de control}{16}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}PID}{16}{subsection.3.2.1}
-\contentsline {section}{\numberline {3.3}Control por par calculado}{16}{section.3.3}
-\contentsline {section}{\numberline {3.4}Par\IeC {\'a}metros de dise\IeC {\~n}o}{16}{section.3.4}
-\contentsline {chapter}{\numberline {4}\leavevmode {\color {Azul}Dise\IeC {\~n}o Mec\IeC {\'a}nico}}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Elementos f\IeC {\'\i }sicos}{17}{section.4.1}
-\contentsline {section}{\numberline {4.2}Barras, rodamientos, contrapesos}{17}{section.4.2}
-\contentsline {section}{\numberline {4.3}M\IeC {\'e}todos de uni\IeC {\'o}n}{17}{section.4.3}
-\contentsline {chapter}{\numberline {5}\leavevmode {\color {Azul}Manufactura e instrumentaci\IeC {\'o}n}}{19}{chapter.5}
-\contentsline {section}{\numberline {5.1}Ensamble de componentes}{19}{section.5.1}
-\contentsline {section}{\numberline {5.2}Sensores y actuadores}{19}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Motores}{19}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Decodificador \IeC {\'o}ptico}{19}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Microcontrolador}{19}{section.5.3}
-\contentsline {chapter}{\numberline {6}\leavevmode {\color {Azul}Implementaci\IeC {\'o}n}}{21}{chapter.6}
-\contentsline {section}{\numberline {6.1}Programaci\IeC {\'o}n}{21}{section.6.1}
-\contentsline {section}{\numberline {6.2}Puesta en marcha}{21}{section.6.2}
-\contentsline {section}{\numberline {6.3}Pruebas mec\IeC {\'a}nicas}{21}{section.6.3}
-\contentsline {chapter}{\numberline {A}Resultados}{23}{appendix.Alph1}
-\contentsline {chapter}{\numberline {B}Referencias}{25}{appendix.Alph2}
-\contentsline {chapter}{\numberline {C}Conclusiones/Trabajo a futuro}{27}{appendix.Alph3}
+\contentsline {subsection}{\numberline {3.1.3}Especificaciones de control}{17}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Esquemas de control}{17}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}PID}{17}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Control por par calculado}{17}{section.3.3}
+\contentsline {section}{\numberline {3.4}Dise\IeC {\~n}o del Controlador}{17}{section.3.4}
+\contentsline {chapter}{\numberline {4}\leavevmode {\color {Azul}Dise\IeC {\~n}o Mec\IeC {\'a}nico}}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Elementos f\IeC {\'\i }sicos}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}Barras, rodamientos, contrapesos}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}M\IeC {\'e}todos de uni\IeC {\'o}n}{19}{section.4.3}
+\contentsline {chapter}{\numberline {5}\leavevmode {\color {Azul}Manufactura e instrumentaci\IeC {\'o}n}}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}Ensamble de componentes}{21}{section.5.1}
+\contentsline {section}{\numberline {5.2}Sensores y actuadores}{21}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Motores}{21}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Decodificador \IeC {\'o}ptico}{21}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Microcontrolador}{21}{section.5.3}
+\contentsline {chapter}{\numberline {6}\leavevmode {\color {Azul}Implementaci\IeC {\'o}n}}{23}{chapter.6}
+\contentsline {section}{\numberline {6.1}Programaci\IeC {\'o}n}{23}{section.6.1}
+\contentsline {section}{\numberline {6.2}Puesta en marcha}{23}{section.6.2}
+\contentsline {section}{\numberline {6.3}Pruebas mec\IeC {\'a}nicas}{23}{section.6.3}
+\contentsline {chapter}{\numberline {A}Resultados}{25}{appendix.Alph1}
+\contentsline {chapter}{\numberline {B}Referencias}{27}{appendix.Alph2}
+\contentsline {chapter}{\numberline {C}Conclusiones/Trabajo a futuro}{29}{appendix.Alph3}
